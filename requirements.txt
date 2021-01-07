@@ -2,7 +2,7 @@ certifi==2019.6.16
 chardet==3.0.4
 get==2019.4.13
 idna==2.8
-lxml==4.3.4
+lxml==4.6.2
 post==2019.4.13
 public==2019.4.13
 PyExecJS==1.5.1
