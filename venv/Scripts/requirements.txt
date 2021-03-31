@@ -3,7 +3,7 @@ chardet==3.0.4
 get==2019.4.13
 idna==2.8
 Js2Py==0.66
-lxml==4.3.4
+lxml==4.6.3
 post==2019.4.13
 public==2019.4.13
 PyExecJS==1.5.1
